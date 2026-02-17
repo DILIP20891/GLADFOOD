@@ -30,7 +30,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
    ```bash
    [git clone https://github.com/yourusername/glad-food-corner.git
-   cd glad-food-corner](https://github.com/Gautam08905/FoodOrder.git)
+   cd glad-food-corner](https://github.com/DILIP20891/GLADFOOD.git)
    
 2.**Install dependencies: Ensure you have the following dependencies installed:**
    -AngularJS
